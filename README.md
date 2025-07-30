@@ -10,7 +10,7 @@
 
 ## 🎨 Screenshot Preview
 
-<img src="https://via.placeholder.com/800x400.png?text=Todo+App+Screenshot" alt="To-Do App Screenshot" style="border-radius: 10px; box-shadow: 0 0 10px #ccc;">
+<img src="https://github.com/HARSHITHA-G-M/Listly/blob/master/to-do-list.png" alt="To-Do App Screenshot" style="border-radius: 10px; box-shadow: 0 0 10px #ccc;">
 
 ---
 
