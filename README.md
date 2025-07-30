@@ -1,4 +1,4 @@
-# 📝 Gradient To-Do App with Flask + Redis + Docker Compose
+# 📝💫 Listly To-Do App with Flask + Redis + Docker Compose
 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Docker](https://img.shields.io/badge/docker-ready-blue)
